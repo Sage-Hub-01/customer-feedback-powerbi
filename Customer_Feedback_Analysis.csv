@@ -1,0 +1,301 @@
+Response ID,Date,Region,Product,Satisfaction Score,NPS Rating,Feedback
+192,2024-01-01,Asia,Product A,1,4,Product quality was poor.
+159,2024-01-01,North America,Product B,3,4,Would recommend to friends.
+285,2024-01-01,Asia,Product B,4,1,Great value for the price.
+53,2024-01-01,North America,Product B,1,9,Excellent service and fast delivery.
+249,2024-01-01,Asia,Product B,5,9,Excellent service and fast delivery.
+245,2024-01-01,Asia,Product A,5,3,Delivery was delayed.
+280,2024-01-01,North America,Product B,4,7,Difficult to navigate the website.
+173,2024-01-01,North America,Product A,3,3,Difficult to navigate the website.
+143,2024-01-01,Europe,Product C,4,7,Excellent service and fast delivery.
+69,2024-01-01,Asia,Product C,4,7,Amazing customer service!
+36,2024-01-01,North America,Product A,3,0,Product quality was poor.
+239,2024-01-01,Europe,Product C,3,0,Delivery was delayed.
+196,2024-01-01,Asia,Product C,3,3,Would recommend to friends.
+201,2024-01-01,North America,Product B,1,5,Great value for the price.
+24,2024-01-01,Europe,Product A,3,10,Product quality was poor.
+18,2024-01-01,North America,Product B,4,8,Amazing customer service!
+252,2024-01-01,Asia,Product B,1,5,Product quality was poor.
+17,2024-01-01,North America,Product C,3,7,Product didn't match the description.
+3,2024-01-01,Asia,Product B,4,1,Difficult to navigate the website.
+107,2024-01-01,Asia,Product B,2,9,Would recommend to friends.
+109,2024-01-01,Europe,Product B,2,3,Difficult to navigate the website.
+272,2024-02-01,Europe,Product B,4,2,Product quality was poor.
+144,2024-02-01,North America,Product A,1,4,Support team was unhelpful.
+271,2024-02-01,Asia,Product A,5,0,Difficult to navigate the website.
+45,2024-02-01,Asia,Product C,3,8,Product quality was poor.
+46,2024-02-01,Europe,Product A,2,6,Product quality was poor.
+48,2024-02-01,Asia,Product B,1,10,Would recommend to friends.
+180,2024-02-01,Europe,Product A,3,3,Would recommend to friends.
+162,2024-02-01,Asia,Product B,2,7,Would recommend to friends.
+234,2024-02-01,North America,Product C,1,10,Difficult to navigate the website.
+284,2024-02-01,Europe,Product B,4,9,Very satisfied with the experience.
+2,2024-02-01,Europe,Product B,4,2,Difficult to navigate the website.
+57,2024-02-01,Asia,Product A,4,3,Great value for the price.
+251,2024-02-01,North America,Product A,2,3,Delivery was delayed.
+59,2024-02-01,Europe,Product A,1,9,Would recommend to friends.
+90,2024-02-01,Europe,Product A,5,9,Excellent service and fast delivery.
+246,2024-02-01,North America,Product B,2,1,Difficult to navigate the website.
+168,2024-02-01,Europe,Product B,1,6,Product quality was poor.
+10,2024-02-01,North America,Product A,2,1,Very satisfied with the experience.
+19,2024-02-01,Europe,Product A,5,0,Delivery was delayed.
+208,2024-02-01,Europe,Product A,3,10,Amazing customer service!
+237,2024-02-01,Europe,Product B,3,10,Difficult to navigate the website.
+205,2024-02-01,North America,Product C,1,9,Product quality was poor.
+204,2024-02-01,Europe,Product C,4,6,Very satisfied with the experience.
+75,2024-02-01,North America,Product B,5,7,Great value for the price.
+14,2024-02-01,Europe,Product C,4,6,Amazing customer service!
+68,2024-02-01,Europe,Product C,3,0,Product didn't match the description.
+197,2024-02-01,North America,Product A,3,8,Amazing customer service!
+254,2024-02-01,Asia,Product C,4,9,Product didn't match the description.
+113,2024-02-01,North America,Product B,1,4,Delivery was delayed.
+151,2024-02-01,Asia,Product C,4,10,Support team was unhelpful.
+73,2024-02-01,Europe,Product A,4,2,Support team was unhelpful.
+289,2024-02-01,Asia,Product C,2,9,Would recommend to friends.
+142,2024-02-01,Europe,Product B,3,4,Delivery was delayed.
+97,2024-03-01,Asia,Product A,3,6,Very satisfied with the experience.
+124,2024-03-01,Asia,Product B,1,7,Delivery was delayed.
+147,2024-03-01,North America,Product C,4,7,Excellent service and fast delivery.
+139,2024-03-01,North America,Product B,3,8,Product didn't match the description.
+145,2024-03-01,North America,Product B,4,5,Would recommend to friends.
+81,2024-03-01,Europe,Product C,1,4,Support team was unhelpful.
+126,2024-03-01,Europe,Product C,3,9,Would recommend to friends.
+262,2024-03-01,North America,Product B,5,1,Difficult to navigate the website.
+93,2024-03-01,North America,Product B,4,4,Delivery was delayed.
+8,2024-03-01,North America,Product B,2,6,Very satisfied with the experience.
+297,2024-03-01,Europe,Product C,4,0,Amazing customer service!
+215,2024-03-01,Europe,Product C,5,5,Product quality was poor.
+295,2024-03-01,Europe,Product A,1,10,Great value for the price.
+211,2024-03-01,North America,Product C,4,9,Great value for the price.
+189,2024-03-01,Europe,Product C,3,2,Great value for the price.
+187,2024-03-01,North America,Product A,4,6,Product didn't match the description.
+210,2024-03-01,North America,Product A,4,7,Support team was unhelpful.
+37,2024-03-01,Asia,Product C,5,5,Great value for the price.
+171,2024-03-01,Europe,Product B,5,1,Would recommend to friends.
+42,2024-03-01,Europe,Product A,2,6,Very satisfied with the experience.
+178,2024-03-01,Asia,Product A,1,5,Product didn't match the description.
+138,2024-04-01,Europe,Product B,2,8,Delivery was delayed.
+224,2024-04-01,Asia,Product A,2,8,Difficult to navigate the website.
+104,2024-04-01,Europe,Product A,2,7,Product quality was poor.
+220,2024-04-01,Europe,Product A,1,5,Product didn't match the description.
+235,2024-04-01,Asia,Product B,2,3,Product quality was poor.
+108,2024-04-01,Asia,Product C,2,5,Would recommend to friends.
+244,2024-04-01,Europe,Product B,4,9,Product quality was poor.
+114,2024-04-01,Asia,Product B,4,10,Great value for the price.
+118,2024-04-01,North America,Product C,3,10,Excellent service and fast delivery.
+236,2024-04-01,Europe,Product C,4,10,Difficult to navigate the website.
+260,2024-04-01,Europe,Product B,3,4,Amazing customer service!
+242,2024-04-01,Asia,Product A,4,3,Great value for the price.
+250,2024-04-01,Europe,Product C,5,3,Great value for the price.
+127,2024-04-01,Europe,Product C,5,5,Difficult to navigate the website.
+256,2024-04-01,Asia,Product C,5,4,Amazing customer service!
+202,2024-04-01,Europe,Product A,5,10,Support team was unhelpful.
+200,2024-04-01,Asia,Product B,5,7,Delivery was delayed.
+186,2024-04-01,North America,Product A,3,10,Very satisfied with the experience.
+96,2024-04-01,North America,Product A,4,10,Excellent service and fast delivery.
+300,2024-04-01,Asia,Product C,4,6,Delivery was delayed.
+291,2024-04-01,Europe,Product C,5,10,Product didn't match the description.
+43,2024-04-01,North America,Product A,3,2,Difficult to navigate the website.
+66,2024-04-01,Asia,Product B,2,4,Great value for the price.
+71,2024-04-01,Asia,Product C,1,10,Very satisfied with the experience.
+74,2024-04-01,Europe,Product C,1,1,Product quality was poor.
+32,2024-04-01,North America,Product B,2,7,Great value for the price.
+290,2024-04-01,Europe,Product B,5,0,Great value for the price.
+292,2024-04-01,Asia,Product A,3,8,Excellent service and fast delivery.
+26,2024-04-01,Asia,Product A,2,3,Amazing customer service!
+21,2024-04-01,Europe,Product C,3,1,Amazing customer service!
+20,2024-04-01,North America,Product A,3,9,Difficult to navigate the website.
+84,2024-04-01,Asia,Product A,5,3,Product didn't match the description.
+267,2024-04-01,Asia,Product A,4,5,Difficult to navigate the website.
+270,2024-04-01,Europe,Product B,5,5,Excellent service and fast delivery.
+6,2024-04-01,Asia,Product A,1,5,Great value for the price.
+7,2024-04-01,Asia,Product C,3,9,Product didn't match the description.
+100,2024-05-01,Europe,Product C,1,9,Would recommend to friends.
+298,2024-05-01,Asia,Product B,1,7,Would recommend to friends.
+72,2024-05-01,Asia,Product B,4,8,Difficult to navigate the website.
+226,2024-05-01,Europe,Product C,5,5,Product didn't match the description.
+86,2024-05-01,Europe,Product B,5,7,Amazing customer service!
+5,2024-05-01,North America,Product C,1,4,Product quality was poor.
+131,2024-05-01,Europe,Product A,5,5,Delivery was delayed.
+52,2024-05-01,North America,Product C,1,1,Amazing customer service!
+257,2024-05-01,Asia,Product B,3,2,Would recommend to friends.
+77,2024-05-01,Asia,Product B,2,9,Great value for the price.
+35,2024-05-01,North America,Product C,4,0,Would recommend to friends.
+61,2024-05-01,Asia,Product C,3,3,Would recommend to friends.
+125,2024-05-01,North America,Product B,2,0,Difficult to navigate the website.
+176,2024-05-01,Asia,Product C,4,9,Product didn't match the description.
+165,2024-05-01,Asia,Product A,1,10,Amazing customer service!
+112,2024-05-01,Asia,Product A,2,9,Great value for the price.
+157,2024-05-01,North America,Product B,3,6,Excellent service and fast delivery.
+199,2024-05-01,North America,Product C,4,6,Would recommend to friends.
+216,2024-05-01,Europe,Product B,2,3,Very satisfied with the experience.
+182,2024-05-01,Europe,Product A,3,1,Product quality was poor.
+169,2024-05-01,North America,Product B,2,10,Would recommend to friends.
+41,2024-05-01,Asia,Product B,1,5,Great value for the price.
+253,2024-06-01,Asia,Product A,3,2,Product quality was poor.
+44,2024-06-01,North America,Product C,2,3,Product quality was poor.
+49,2024-06-01,North America,Product A,5,2,Product quality was poor.
+288,2024-06-01,Asia,Product C,1,3,Would recommend to friends.
+64,2024-06-01,Asia,Product C,4,4,Product didn't match the description.
+50,2024-06-01,North America,Product A,2,2,Great value for the price.
+167,2024-06-01,North America,Product B,5,9,Great value for the price.
+40,2024-06-01,North America,Product B,3,5,Delivery was delayed.
+230,2024-06-01,North America,Product A,1,3,Product didn't match the description.
+80,2024-06-01,Europe,Product B,3,6,Product didn't match the description.
+188,2024-06-01,North America,Product A,4,1,Difficult to navigate the website.
+110,2024-06-01,Asia,Product B,5,10,Great value for the price.
+194,2024-06-01,Europe,Product C,1,1,Would recommend to friends.
+198,2024-06-01,Europe,Product B,1,2,Product quality was poor.
+275,2024-06-01,Europe,Product C,2,2,Amazing customer service!
+238,2024-06-01,Asia,Product A,5,9,Delivery was delayed.
+83,2024-06-01,Asia,Product C,1,4,Amazing customer service!
+137,2024-06-01,Europe,Product A,1,5,Product quality was poor.
+106,2024-06-01,Europe,Product B,1,3,Support team was unhelpful.
+82,2024-06-01,North America,Product B,2,7,Would recommend to friends.
+117,2024-06-01,Asia,Product A,4,2,Product quality was poor.
+16,2024-07-01,Europe,Product C,5,10,Would recommend to friends.
+39,2024-07-01,Asia,Product B,5,4,Great value for the price.
+170,2024-07-01,North America,Product B,4,5,Excellent service and fast delivery.
+227,2024-07-01,North America,Product B,1,0,Product didn't match the description.
+219,2024-07-01,Europe,Product A,4,3,Very satisfied with the experience.
+31,2024-07-01,Europe,Product A,5,1,Would recommend to friends.
+47,2024-07-01,Asia,Product A,3,9,Product quality was poor.
+296,2024-07-01,North America,Product A,5,0,Product quality was poor.
+286,2024-07-01,Asia,Product B,2,7,Great value for the price.
+269,2024-07-01,Asia,Product B,3,9,Very satisfied with the experience.
+136,2024-07-01,Asia,Product B,1,8,Would recommend to friends.
+134,2024-07-01,Asia,Product B,3,3,Product quality was poor.
+276,2024-07-01,Europe,Product B,2,6,Very satisfied with the experience.
+277,2024-07-01,Asia,Product B,5,8,Excellent service and fast delivery.
+76,2024-07-01,Asia,Product B,1,5,Amazing customer service!
+149,2024-07-01,Europe,Product A,5,2,Support team was unhelpful.
+111,2024-07-01,Asia,Product A,1,3,Very satisfied with the experience.
+99,2024-07-01,North America,Product B,5,0,Product didn't match the description.
+274,2024-07-01,Europe,Product C,3,0,Product quality was poor.
+152,2024-07-01,Europe,Product C,4,10,Very satisfied with the experience.
+153,2024-07-01,Asia,Product C,1,6,Delivery was delayed.
+58,2024-07-01,North America,Product B,1,7,Product quality was poor.
+121,2024-07-01,North America,Product A,3,10,Product didn't match the description.
+33,2024-08-01,North America,Product B,2,2,Difficult to navigate the website.
+195,2024-08-01,Asia,Product A,3,1,Product didn't match the description.
+294,2024-08-01,Europe,Product A,4,7,Product quality was poor.
+123,2024-08-01,Asia,Product B,4,4,Product quality was poor.
+259,2024-08-01,North America,Product C,3,8,Product didn't match the description.
+213,2024-08-01,Asia,Product B,2,4,Very satisfied with the experience.
+120,2024-08-01,Europe,Product B,2,10,Very satisfied with the experience.
+78,2024-08-01,Europe,Product A,2,4,Product quality was poor.
+55,2024-08-01,Asia,Product C,3,9,Amazing customer service!
+207,2024-08-01,Europe,Product A,5,6,Product quality was poor.
+231,2024-08-01,Asia,Product C,2,1,Great value for the price.
+268,2024-08-01,North America,Product A,3,3,Amazing customer service!
+98,2024-08-01,Europe,Product A,5,4,Very satisfied with the experience.
+155,2024-08-01,Europe,Product A,1,5,Great value for the price.
+172,2024-08-01,Europe,Product B,4,10,Excellent service and fast delivery.
+299,2024-08-01,Asia,Product B,2,6,Delivery was delayed.
+266,2024-08-01,Europe,Product B,5,0,Product didn't match the description.
+233,2024-08-01,North America,Product B,4,1,Very satisfied with the experience.
+141,2024-08-01,Asia,Product C,5,2,Amazing customer service!
+278,2024-08-01,Europe,Product A,4,1,Support team was unhelpful.
+217,2024-09-01,Europe,Product B,3,7,Delivery was delayed.
+221,2024-09-01,Asia,Product C,1,1,Very satisfied with the experience.
+13,2024-09-01,Europe,Product B,3,8,Product didn't match the description.
+232,2024-09-01,Europe,Product A,1,7,Great value for the price.
+214,2024-09-01,North America,Product C,3,0,Support team was unhelpful.
+209,2024-09-01,Europe,Product B,5,1,Amazing customer service!
+103,2024-09-01,Europe,Product A,2,9,Excellent service and fast delivery.
+164,2024-09-01,Europe,Product B,5,10,Support team was unhelpful.
+130,2024-09-01,Asia,Product C,1,4,Would recommend to friends.
+22,2024-09-01,Europe,Product B,4,3,Product didn't match the description.
+56,2024-09-01,North America,Product A,2,10,Amazing customer service!
+158,2024-09-01,North America,Product A,5,0,Difficult to navigate the website.
+156,2024-09-01,Asia,Product C,4,1,Product quality was poor.
+60,2024-09-01,North America,Product B,5,2,Great value for the price.
+177,2024-09-01,North America,Product C,4,8,Would recommend to friends.
+179,2024-09-01,North America,Product B,4,9,Would recommend to friends.
+241,2024-09-01,Asia,Product B,4,5,Excellent service and fast delivery.
+261,2024-09-01,Europe,Product B,5,2,Excellent service and fast delivery.
+184,2024-09-01,Asia,Product A,1,7,Excellent service and fast delivery.
+140,2024-09-01,North America,Product C,5,4,Difficult to navigate the website.
+190,2024-09-01,North America,Product A,4,0,Product quality was poor.
+191,2024-09-01,North America,Product A,5,0,Would recommend to friends.
+255,2024-09-01,Asia,Product C,3,0,Product didn't match the description.
+30,2024-09-01,Asia,Product C,1,10,Support team was unhelpful.
+129,2024-09-01,North America,Product C,4,1,Difficult to navigate the website.
+25,2024-09-01,Europe,Product A,3,4,Product quality was poor.
+293,2024-09-01,North America,Product C,1,4,Great value for the price.
+94,2024-09-01,North America,Product C,3,4,Great value for the price.
+240,2024-10-01,Europe,Product C,4,0,Product didn't match the description.
+265,2024-10-01,Asia,Product B,4,2,Great value for the price.
+243,2024-10-01,North America,Product B,2,2,Amazing customer service!
+264,2024-10-01,Europe,Product C,2,0,Support team was unhelpful.
+150,2024-10-01,North America,Product B,5,3,Delivery was delayed.
+63,2024-10-01,Asia,Product C,4,10,Delivery was delayed.
+91,2024-10-01,Asia,Product B,4,5,Very satisfied with the experience.
+133,2024-10-01,Asia,Product A,2,2,Amazing customer service!
+135,2024-10-01,Europe,Product B,2,2,Great value for the price.
+154,2024-10-01,Asia,Product A,5,8,Delivery was delayed.
+65,2024-10-01,North America,Product B,3,7,Delivery was delayed.
+51,2024-10-01,Asia,Product C,3,2,Very satisfied with the experience.
+185,2024-10-01,North America,Product A,2,4,Great value for the price.
+115,2024-10-01,Asia,Product C,4,10,Product didn't match the description.
+203,2024-10-01,North America,Product C,4,8,Great value for the price.
+15,2024-10-01,North America,Product C,5,5,Great value for the price.
+23,2024-10-01,Europe,Product A,3,10,Would recommend to friends.
+193,2024-10-01,Europe,Product B,4,7,Support team was unhelpful.
+218,2024-10-01,North America,Product C,4,7,Support team was unhelpful.
+34,2024-10-01,Europe,Product C,2,4,Would recommend to friends.
+281,2024-11-01,North America,Product A,1,7,Amazing customer service!
+229,2024-11-01,Europe,Product C,4,4,Product didn't match the description.
+101,2024-11-01,North America,Product A,5,10,Product quality was poor.
+92,2024-11-01,Asia,Product B,4,9,Delivery was delayed.
+11,2024-11-01,North America,Product C,3,5,Delivery was delayed.
+89,2024-11-01,North America,Product B,2,6,Delivery was delayed.
+62,2024-11-01,North America,Product C,4,7,Excellent service and fast delivery.
+88,2024-11-01,North America,Product C,5,3,Product didn't match the description.
+273,2024-11-01,Asia,Product C,4,4,Great value for the price.
+283,2024-11-01,Asia,Product A,4,8,Product didn't match the description.
+85,2024-11-01,Europe,Product B,4,6,Product didn't match the description.
+79,2024-11-01,North America,Product C,5,10,Delivery was delayed.
+70,2024-11-01,Asia,Product B,1,4,Support team was unhelpful.
+28,2024-11-01,Asia,Product A,2,6,Would recommend to friends.
+105,2024-11-01,North America,Product B,3,4,Amazing customer service!
+282,2024-11-01,Europe,Product B,3,5,Amazing customer service!
+228,2024-11-01,North America,Product C,5,6,Difficult to navigate the website.
+1,2024-11-01,North America,Product B,2,10,Product quality was poor.
+183,2024-11-01,Asia,Product C,3,10,Would recommend to friends.
+119,2024-11-01,North America,Product B,1,1,Very satisfied with the experience.
+122,2024-11-01,North America,Product B,3,0,Excellent service and fast delivery.
+181,2024-11-01,Asia,Product C,4,10,Delivery was delayed.
+258,2024-11-01,Asia,Product C,1,2,Difficult to navigate the website.
+146,2024-11-01,Europe,Product A,3,1,Product didn't match the description.
+166,2024-11-01,Asia,Product B,3,4,Amazing customer service!
+148,2024-11-01,Asia,Product C,3,1,Excellent service and fast delivery.
+160,2024-11-01,Asia,Product A,1,8,Very satisfied with the experience.
+163,2024-11-01,North America,Product B,5,5,Amazing customer service!
+248,2024-11-01,North America,Product C,2,3,Excellent service and fast delivery.
+212,2024-11-01,North America,Product A,1,6,Great value for the price.
+206,2024-12-01,North America,Product C,2,2,Amazing customer service!
+29,2024-12-01,Asia,Product B,3,1,Difficult to navigate the website.
+116,2024-12-01,Europe,Product C,5,10,Product didn't match the description.
+222,2024-12-01,Asia,Product C,5,10,Product quality was poor.
+38,2024-12-01,Asia,Product C,5,0,Would recommend to friends.
+12,2024-12-01,Europe,Product A,5,10,Product didn't match the description.
+225,2024-12-01,Asia,Product A,3,10,Difficult to navigate the website.
+9,2024-12-01,North America,Product C,4,10,Product quality was poor.
+4,2024-12-01,North America,Product B,4,7,Product quality was poor.
+27,2024-12-01,Asia,Product A,1,1,Support team was unhelpful.
+223,2024-12-01,Europe,Product C,2,5,Very satisfied with the experience.
+174,2024-12-01,Europe,Product B,2,7,Product quality was poor.
+54,2024-12-01,North America,Product A,5,6,Product didn't match the description.
+175,2024-12-01,North America,Product A,5,0,Great value for the price.
+263,2024-12-01,Asia,Product C,4,10,Product didn't match the description.
+279,2024-12-01,Asia,Product B,2,1,Difficult to navigate the website.
+247,2024-12-01,Europe,Product B,4,8,Difficult to navigate the website.
+67,2024-12-01,North America,Product C,1,10,Product quality was poor.
+161,2024-12-01,North America,Product A,1,1,Very satisfied with the experience.
+87,2024-12-01,Europe,Product A,5,1,Excellent service and fast delivery.
+132,2024-12-01,North America,Product B,2,6,Support team was unhelpful.
+128,2024-12-01,Asia,Product C,2,2,Product didn't match the description.
+95,2024-12-01,Asia,Product A,5,0,Great value for the price.
+287,2024-12-01,North America,Product B,4,8,Delivery was delayed.
+102,2024-12-01,North America,Product C,1,0,Very satisfied with the experience.
