@@ -25,11 +25,6 @@ This project is a Power BI dashboard that analyzes customer satisfaction survey 
 - Clean and organized layout with professional theme
 - Ideal for showcasing analytical and visualization skills
 
-## Preview
-
-(Optional: Upload a screenshot of your dashboard and link it here)  
-![Dashboard Screenshot](link-to-image-if-added)
-
 ## How to Use
 
 1. Download the .pbix file
